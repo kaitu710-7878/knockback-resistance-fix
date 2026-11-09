@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.knockbackresistancefix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "knockbackresistancefix.refmap.json",
+  "mixins": [
+    "LivingEntityMixin",
+    "ServerPlayerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
