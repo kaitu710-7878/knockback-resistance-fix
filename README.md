@@ -22,7 +22,7 @@ In vanilla Minecraft, knockback resistance halves an entity's horizontal velocit
 
 ### Installation
 1. Install [Minecraft Forge](https://files.minecraftforge.net/) for Minecraft 1.20.1.
-2. Place `knockbackresistancefix-1.20.1-1.0.0-alpha.1.jar` into your Minecraft `.minecraft/mods` folder.
+2. Place `knockbackresistancefix-1.20.1-1.0.0-beta.1.jar` into your Minecraft `.minecraft/mods` folder.
 3. Launch the game!
 
 ### License
@@ -47,7 +47,7 @@ This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](L
 
 ### 導入手順
 1. Minecraft 1.20.1用の [Minecraft Forge](https://files.minecraftforge.net/) を導入します。
-2. ビルドされた `knockbackresistancefix-1.20.1-1.0.0-alpha.1.jar` を `.minecraft/mods` フォルダに配置します。
+2. ビルドされた `knockbackresistancefix-1.20.1-1.0.0-beta.1.jar` を `.minecraft/mods` フォルダに配置します。
 3. Minecraftを起動してください。
 
 ### ライセンス

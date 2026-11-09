@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.20.1-1.0.0-beta.1] - 2026-11-09
+
+### English
+#### Changed
+- Promoted release status to **Beta** (`1.20.1-1.0.0-beta.1`).
+- Feature verification complete: knockback vector scaling, downward vector prevention in mid-air, and stun/flinch prevention at maximum resistance are fully stable.
+
+### 日本語
+#### 変更 (Changed)
+- リリース種別を **Beta** (`1.20.1-1.0.0-beta.1`) へ昇格。
+- 動作検証・実装安定化完了: ノックバック耐性によるベクトル比例縮小、空中での下ノックバック防止、最大耐性時の硬直・モーションパケット防止が安定動作することを確認。
+
 ## [1.20.1-1.0.0-alpha.1] - 2026-11-09
 
 ### English
